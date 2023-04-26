@@ -1,3 +1,5 @@
+This branch contains all my patches for private use.
+
 # Async::HTTP::Faraday
 
 Provides an adaptor for [Faraday](https://github.com/lostisland/faraday) to perform async HTTP requests. If you are designing a new library, you should probably just use `Async::HTTP::Client` directly.
